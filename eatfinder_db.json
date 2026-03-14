@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ChIJoVxJluA1aDQRHY63emw8_Qw",
+    "name": "沐嵐 · Moonlight",
+    "address": "300台灣新竹市東區西大路240號",
+    "region": "hsinchu_city",
+    "latitude": 24.7984737,
+    "longitude": 120.9684659,
+    "orderLinks": [
+      {
+        "id": "b3f469de-8289-4871-99ac-854bd04d1ff9",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100063921677920"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJi8wdhOw1aDQR-wdES8TzUTE",
+    "name": "石家魚丸",
+    "address": "300台灣新竹市东区兴学街27號2９號",
+    "region": "hsinchu_city",
+    "latitude": 24.797790199999998,
+    "longitude": 120.96785919999998,
+    "orderLinks": [
+      {
+        "id": "0727d2f1-86ca-4026-af1b-36d48ce866b2",
+        "platform": "官網",
+        "url": "https://sfishball.com.tw/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJc2x47-41aDQRGRyXzAS-6w4",
+    "name": "麥當勞-新竹食品餐廳",
+    "address": "300台灣新竹市東區食品路228號",
+    "region": "hsinchu_city",
+    "latitude": 24.7950926,
+    "longitude": 120.972557,
+    "orderLinks": [
+      {
+        "id": "3b6e5372-53b6-4c28-999d-e2697cc6d125",
+        "platform": "官網",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJIcZk3Og1aDQRdJsrA8DdVxU",
+    "name": "小鵲幸 車輪餅 - 新竹東南 起家店",
+    "address": "300台灣新竹市東區東南街118號",
+    "region": "hsinchu_city",
+    "latitude": 24.797784,
+    "longitude": 120.97397099999998,
+    "orderLinks": [
+      {
+        "id": "e8050a1f-2b72-4eaa-8ffe-2a4047bff5a1",
+        "platform": "官網",
+        "url": "https://m.facebook.com/alittlehappinesscake"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJGXRRUeY1aDQRSRZx8N61PWM",
+    "name": "每天都要吃早餐",
+    "address": "300台灣新竹市東區東山街85號",
+    "region": "hsinchu_city",
+    "latitude": 24.7976983,
+    "longitude": 120.97855759999999,
+    "orderLinks": [
+      {
+        "id": "4932e8e9-5516-4496-b1d8-a4f46f22e0b9",
+        "platform": "官網",
+        "url": "https://www.facebook.com/frogfishhouse/"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJjao5u-I1aDQRS05YLtXGgXU",
+    "name": "新築窟（蔬食）",
+    "address": "300台灣新竹市東區南大路166號",
+    "region": "hsinchu_city",
+    "latitude": 24.800979400000003,
+    "longitude": 120.9747396,
+    "orderLinks": [
+      {
+        "id": "d26d8e82-eba4-494b-864a-f4af6e4fa3ab",
+        "platform": "官網",
+        "url": "https://oohchacha.net/"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJdcmEgJ01aDQRYaYnPKu3ONQ",
+    "name": "陶板屋 新竹食品店",
+    "address": "300台灣新竹市东区食品路305-1號2F",
+    "region": "hsinchu_city",
+    "latitude": 24.7946699,
+    "longitude": 120.97288719999999,
+    "orderLinks": [
+      {
+        "id": "c76dbeef-a85a-4a8d-95fc-682985631575",
+        "platform": "官網",
+        "url": "https://www.tokiya.com.tw/"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJ9e6ChgQ1aDQRf24OfsMpnz8",
+    "name": "竹美港式茶餐廳 學府店(沒有訂位服務)",
+    "address": "300台灣新竹市東區學府路73號",
+    "region": "hsinchu_city",
+    "latitude": 24.7947709,
+    "longitude": 120.9781473,
+    "orderLinks": [
+      {
+        "id": "a9071ece-0831-4fac-9a21-42e424249545",
+        "platform": "官網",
+        "url": "https://www.facebook.com/Chumei03"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJXTIi5-k1aDQR3GLsy69Gx5g",
+    "name": "田記烤鴨",
+    "address": "30062台灣新竹市東區食品路416號",
+    "region": "hsinchu_city",
+    "latitude": 24.7938543,
+    "longitude": 120.96807129999998,
+    "orderLinks": [],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJZ93aQGU1aDQR8CUD11D7p5I",
+    "name": "斜角古早味綿綿冰（紅豆湯、燒仙草）",
+    "address": "300台灣新竹市東區南大路393號",
+    "region": "hsinchu_city",
+    "latitude": 24.7966017,
+    "longitude": 120.96824509999999,
+    "orderLinks": [
+      {
+        "id": "e485fd62-cf52-446d-ab6d-17b87a9db62c",
+        "platform": "官網",
+        "url": "https://instagram.com/obliqueangle_ice?utm_medium=copy_link"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJ6Zt5Y481aDQRG8mZ-cJZxMM",
+    "name": "太空總薯-韓式2號店",
+    "address": "300台灣新竹市東區食品路134巷1號",
+    "region": "hsinchu_city",
+    "latitude": 24.797800799999997,
+    "longitude": 120.9770318,
+    "orderLinks": [
+      {
+        "id": "b7554b65-8b02-4e17-9ab3-9a24eeaf2dd9",
+        "platform": "官網",
+        "url": "https://space-potato.com/chillspace02/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJlVNAE141aDQREbYAaPPmb7k",
+    "name": "星巴克 新竹動物園門市",
+    "address": "300台灣新竹市東區博愛街111號1樓、2樓",
+    "region": "hsinchu_city",
+    "latitude": 24.800134999999997,
+    "longitude": 120.97919449999999,
+    "orderLinks": [
+      {
+        "id": "c66741c4-64dd-47d1-8a5f-41ae5133fc0c",
+        "platform": "官網",
+        "url": "http://www.starbucks.com.tw/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJL7QPnzU1aDQRicUeA--NAX0",
+    "name": "福徠鴨新台式烤鴨Fu DUCK IN",
+    "address": "300台灣新竹市東區西大路74號",
+    "region": "hsinchu_city",
+    "latitude": 24.795923,
+    "longitude": 120.971375,
+    "orderLinks": [
+      {
+        "id": "91876689-626e-4f66-bf97-b07d001b9989",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100090528368797&mibextid=LQQJ4d"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJQ4a1ouY1aDQROl6yOqnEOAk",
+    "name": "阿婆早餐麵店",
+    "address": "300台灣新竹市東區東山街6號",
+    "region": "hsinchu_city",
+    "latitude": 24.7957423,
+    "longitude": 120.9804408,
+    "orderLinks": [
+      {
+        "id": "bece03a9-506a-4793-9940-79118cbe1911",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E9%98%BF%E5%A9%86%E6%97%A9%E9%A4%90%E9%BA%B5%E5%BA%97-136808669740035/"
+      }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJ_7fcdME1aDQRWtEib01QRiM",
+    "name": "麥當勞-新竹南大餐廳",
+    "address": "300台灣新竹市東區南大路337號1樓",
+    "region": "hsinchu_city",
+    "latitude": 24.7975607,
+    "longitude": 120.96976639999998,
+    "orderLinks": [
+      {
+        "id": "872f42a1-2cfc-4d14-b4aa-16a2524a57d8",
+        "platform": "官網",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "rating": 3.9
+  },
+  {
+    "id": "ChIJC3sUquk1aDQRNG-5KpPLCY4",
+    "name": "六扇門時尚湯鍋 新竹東南店",
+    "address": "300台灣新竹市東區東南街55號",
+    "region": "hsinchu_city",
+    "latitude": 24.7994433,
+    "longitude": 120.9730098,
+    "orderLinks": [
+      {
+        "id": "0e8d5231-17fb-4893-b95d-d683eb563322",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E5%85%AD%E6%89%87%E9%96%80%E6%99%82%E5%B0%9A%E6%B9%AF%E9%8D%8B-%E6%96%B0%E7%AB%B9%E6%9D%B1%E5%8D%97%E5%BA%97-118580048759570/?fref=ts"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJRaoIx901aDQRhhAjzab5Kjs",
+    "name": "億品鍋-新竹食品店",
+    "address": "300台灣新竹市東區食品路262號",
+    "region": "hsinchu_city",
+    "latitude": 24.7944326,
+    "longitude": 120.9717101,
+    "orderLinks": [],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJG9E4koA1aDQR8rDCdDVbitk",
+    "name": "TWINS 廚房 正宗西藏青海羊排炕鍋",
+    "address": "300台灣新竹市東區南大路107號",
+    "region": "hsinchu_city",
+    "latitude": 24.8012668,
+    "longitude": 120.97574689999999,
+    "orderLinks": [
+      {
+        "id": "382d797e-937a-4621-8d1a-68c092ccd60d",
+        "platform": "官網",
+        "url": "https://www.facebook.com/TWINS-%E5%BB%9A%E6%88%BF-%E6%AD%A3%E5%AE%97%E8%A5%BF%E8%97%8F%E9%9D%92%E6%B5%B7%E7%BE%8A%E6%8E%92%E7%82%95%E9%8D%8B-411997322666815/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ4TBgje81aDQRhT5GgrTaF7Q",
+    "name": "皇膳湯包 寶山店",
+    "address": "300台灣新竹市東區寶山路128號",
+    "region": "hsinchu_city",
+    "latitude": 24.7924013,
+    "longitude": 120.97511909999999,
+    "orderLinks": [
+      {
+        "id": "89ff31eb-2ec7-466c-aa17-47f1c6b7811b",
+        "platform": "官網",
+        "url": "https://zh-tw.facebook.com/%E7%9A%87%E8%86%B3%E6%B9%AF%E5%8C%85-608003859225782/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ_aJ6i-U1aDQRU6l60v2Cvdg",
+    "name": "東南漢堡店",
+    "address": "300台灣新竹市東區東南街54號",
+    "region": "hsinchu_city",
+    "latitude": 24.7990116,
+    "longitude": 120.9730649,
+    "orderLinks": [
+      {
+        "id": "32f1da2e-2ecd-4305-8732-c5174fcdea99",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E6%9D%B1%E5%8D%97%E6%BC%A2%E5%A0%A1%E5%BA%97-155186874639390/"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJq2H9q4I1aDQRFEE9aMGuIvs",
+    "name": "艷麗Pondok Sunny",
+    "address": "300台灣新竹市東區南大路52號",
+    "region": "hsinchu_city",
+    "latitude": 24.802760799999998,
+    "longitude": 120.977823,
+    "orderLinks": [
+      {
+        "id": "290b655b-fa60-4b3f-950d-4f3e1877c000",
+        "platform": "官網",
+        "url": "https://www.pondok-sunny.com/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJPaT0WVQ1aDQRt5rrq5IsHJ8",
+    "name": "柒伍無煙燒肉",
+    "address": "300台灣新竹市東區大同路23號",
+    "region": "hsinchu_city",
+    "latitude": 24.803180599999997,
+    "longitude": 120.96967509999999,
+    "orderLinks": [
+      {
+        "id": "f8fc7834-5396-4d64-bea7-1a6ffad9d180",
+        "platform": "官網",
+        "url": "https://www.facebook.com/pages/category/Restaurant/%E6%9F%92%E4%BC%8D%E7%84%A1%E7%85%99%E7%87%92%E8%82%89-104084347787019/"
+      }
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "ChIJ350Fswo1aDQR7AoBMbVo2tg",
+    "name": "良家手工港式點心坊",
+    "address": "300台灣新竹市東區花園街19號",
+    "region": "hsinchu_city",
+    "latitude": 24.8034714,
+    "longitude": 120.9779449,
+    "orderLinks": [
+      {
+        "id": "3782137d-3e29-401b-92d2-2c8549301e6e",
+        "platform": "官網",
+        "url": "https://lin.ee/foem1Pw"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJV0TGlME1aDQRy0Kuutn6-Wc",
+    "name": "好豆味冰沙豆花",
+    "address": "300台灣新竹市東區勝利路20號",
+    "region": "hsinchu_city",
+    "latitude": 24.803296,
+    "longitude": 120.97000309999999,
+    "orderLinks": [
+      {
+        "id": "47f4e196-c0c1-40d6-a541-3aa24adaae82",
+        "platform": "官網",
+        "url": "https://www.facebook.com/DouWeiDouHuaDian/"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJvZU_Teo1aDQRbwKXyGAfAXA",
+    "name": "原味鴨肉麵",
+    "address": "300台灣新竹市東區勝利路59號",
+    "region": "hsinchu_city",
+    "latitude": 24.800525200000003,
+    "longitude": 120.96841560000001,
+    "orderLinks": [
+      {
+        "id": "e9504d2a-37cd-482d-ba27-94716c0e7321",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100057360411659"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJmSEKN8c1aDQRgY2PNGL1G4Y",
+    "name": "竹東邱記排骨酥麵-新竹店",
+    "address": "300台灣新竹市東區公園路270號",
+    "region": "hsinchu_city",
+    "latitude": 24.8031737,
+    "longitude": 120.97946820000001,
+    "orderLinks": [
+      {
+        "id": "38bea2df-fa31-4e1c-9749-bc893803c665",
+        "platform": "官網",
+        "url": "https://www.facebook.com/373781029372787/posts/3486399568110902/?extid=qGIX4B0KtmzcKYSQ&d=n"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJcSaqW-A1aDQRhWAdEK6Ygws",
+    "name": "璽子牛肉麵（新竹博愛店）",
+    "address": "300台灣新竹市東區博愛街31號",
+    "region": "hsinchu_city",
+    "latitude": 24.7974231,
+    "longitude": 120.985294,
+    "orderLinks": [
+      {
+        "id": "d0ca2ddb-fdfe-4bae-b3e3-47932aef89fe",
+        "platform": "官網",
+        "url": "https://sizih2007.weebly.com/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJ_7fcdME1aDQRUmPgoQZDOmY",
+    "name": "麥當勞-新竹中正餐廳",
+    "address": "300台灣新竹市東區中正路34號",
+    "region": "hsinchu_city",
+    "latitude": 24.803469699999997,
+    "longitude": 120.97120249999999,
+    "orderLinks": [
+      {
+        "id": "4a340742-e179-4b33-b60b-f7b2dcf3cbf5",
+        "platform": "官網",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "rating": 3.7
+  },
+  {
+    "id": "ChIJcbhLsOs1aDQRCOeawP2RSxo",
+    "name": "刀削麵",
+    "address": "300台灣新竹市東區中華路二段572號",
+    "region": "hsinchu_city",
+    "latitude": 24.799809900000003,
+    "longitude": 120.96783789999998,
+    "orderLinks": [],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJ-3Eeyt01aDQRYtBEy85vrsI",
+    "name": "公園黑乾麵",
+    "address": "300台灣新竹市東區體育街82號",
+    "region": "hsinchu_city",
+    "latitude": 24.802661999999998,
+    "longitude": 120.980532,
+    "orderLinks": [],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJBxRPBI41aDQRYs7u-Oq4Pm4",
+    "name": "春室 SPRING POOL GLASS STUDIO + The POOL",
+    "address": "300台灣新竹市東區東大路一段2號",
+    "region": "hsinchu_city",
+    "latitude": 24.801322499999998,
+    "longitude": 120.9784957,
+    "orderLinks": [
+      {
+        "id": "5789bbb1-1886-4408-a986-51512edf678f",
+        "platform": "官網",
+        "url": "https://www.glasspoolstore.com/pages/about-springpoolglassstudio"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJgQJ9bqM1aDQRJcvuSbkJMcg",
+    "name": "辛志平校長故居本館(前棟)",
+    "address": "300台灣新竹市東區東門街32號",
+    "region": "hsinchu_city",
+    "latitude": 24.804337500000003,
+    "longitude": 120.9739152,
+    "orderLinks": [
+      {
+        "id": "e7a4b3fe-2071-4e6e-a904-668705076bc7",
+        "platform": "官網",
+        "url": "https://www.facebook.com/Hsinchiping.former.residence/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJb9ONMY01aDQRyvNAwiKOhMI",
+    "name": "波諾義大利料理 新竹",
+    "address": "300台灣新竹市東區南大路525號",
+    "region": "hsinchu_city",
+    "latitude": 24.791772700000003,
+    "longitude": 120.96458659999999,
+    "orderLinks": [
+      {
+        "id": "77a8aca5-c4d9-49f8-86b4-944bb06ba047",
+        "platform": "官網",
+        "url": "http://buonobella.com/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJC9VFWO81aDQRvPDb8uKg9Tw",
+    "name": "Mountain House 山房吐司料理 (不接受訂位）",
+    "address": "300台灣新竹市東區東南街245號",
+    "region": "hsinchu_city",
+    "latitude": 24.795131100000003,
+    "longitude": 120.97611289999998,
+    "orderLinks": [
+      {
+        "id": "e642fe1b-ad50-43d7-bc13-3753af5538da",
+        "platform": "iCHEF",
+        "url": "https://shop.ichefpos.com/store/zjOvkAVA/ordering?fbclid=PAAaYm8x5IxYUWbytrhZ6qi6cqQd0LI9D_2_M-ZN7IvKUz92KNjWk3xdrxuDA_aem_AY7ZX-3mafZpxBUn_Sjh1trFRO-NPcRVds_I3DWkEy5C-xDZORFziaxJaQevIflT2Qc"
+      }
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJAWQbbvM1aDQRWmfTHScOHh8",
+    "name": "嘉味火雞肉飯",
+    "address": "300台灣新竹市東區南大路828號",
+    "region": "hsinchu_city",
+    "latitude": 24.7884863,
+    "longitude": 120.9667269,
+    "orderLinks": [],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJfSEV7xM1aDQRrZZEsF5pO2s",
+    "name": "雞肉男雞肉飯",
+    "address": "300台灣新竹市東區食品路221號",
+    "region": "hsinchu_city",
+    "latitude": 24.7958782,
+    "longitude": 120.97444970000001,
+    "orderLinks": [
+      {
+        "id": "ca85a8d4-94c2-4c97-ab6f-d67d635ea8c1",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100089813297122&locale=zh_TW"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ9Z3iN2E1aDQR-FE-fsOF368",
+    "name": "一私麵宅新竹店",
+    "address": "300台灣新竹市東區東南街223號",
+    "region": "hsinchu_city",
+    "latitude": 24.7957845,
+    "longitude": 120.9756169,
+    "orderLinks": [],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJHRp2N-81aDQRMfWb-nwV-1c",
+    "name": "麵堂拉麵專賣店",
+    "address": "300台灣新竹市東區食品路223號",
+    "region": "hsinchu_city",
+    "latitude": 24.7958744,
+    "longitude": 120.9743727,
+    "orderLinks": [
+      {
+        "id": "2ec83da5-b11f-4087-b04a-87b3cd726b29",
+        "platform": "官網",
+        "url": "https://www.facebook.com/miantang2014/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJISOj3OU1aDQRcczo3dgWlOY",
+    "name": "La Dolce Vita樂多趣義大利餐廳 店休日請看臉書與IG ～～內用假日低消600",
+    "address": "300台灣新竹市東區学府路61巷5-2號",
+    "region": "hsinchu_city",
+    "latitude": 24.794998099999997,
+    "longitude": 120.97791260000001,
+    "orderLinks": [
+      {
+        "id": "0e93b61b-24ff-46bf-83f2-48bb21380dcb",
+        "platform": "官網",
+        "url": "https://www.facebook.com/dolce0vita/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJCVwbK401aDQR9EJK_rACCUU",
+    "name": "南大路倪家永和豆漿大王",
+    "address": "300台灣新竹市東區南大路716號",
+    "region": "hsinchu_city",
+    "latitude": 24.7912173,
+    "longitude": 120.9641762,
+    "orderLinks": [],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ_8VTWwA1aDQR5F5Ix7-dd6w",
+    "name": "貓的堅持（新竹店）創意輕藥膳養生料理",
+    "address": "300台灣新竹市東區西大路63號",
+    "region": "hsinchu_city",
+    "latitude": 24.795660899999998,
+    "longitude": 120.97119649999999,
+    "orderLinks": [
+      {
+        "id": "3fa783a6-f2ac-4156-8208-257e6da13932",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100066772443262&mibextid=LQQJ4d"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJq0sXzyk1aDQROyG3m3M8GEQ",
+    "name": "大爺鹽酥雞",
+    "address": "300台灣新竹市東區食品路329號",
+    "region": "hsinchu_city",
+    "latitude": 24.7943194,
+    "longitude": 120.97181549999999,
+    "orderLinks": [
+      {
+        "id": "ae531399-9679-4c05-8fcb-dbbc4dc1b12f",
+        "platform": "官網",
+        "url": "https://m.facebook.com/daye035/"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJ_zOVDUc1aDQR9xqhYJMoIWU",
+    "name": "洞心咖啡廳Heartbeat Cafe-新竹深夜咖啡廳/下午茶/手作甜點 手沖/精品/義式咖啡 輕食/蛋糕 咖啡課程體驗 桌遊/親子/包場/約會/網美/打卡 人氣熱門好評推薦 PTT Dcard",
+    "address": "300台灣新竹市東區学府路61巷5-1號",
+    "region": "hsinchu_city",
+    "latitude": 24.795053499999998,
+    "longitude": 120.9779442,
+    "orderLinks": [
+      {
+        "id": "78e87446-ebab-4d34-8fff-49b4dafe8df3",
+        "platform": "官網",
+        "url": "https://heartbeat-cafe.com/"
+      }
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "ChIJK997kuU1aDQRLsBGt45KTL0",
+    "name": "老雲記餃子館",
+    "address": "300台灣新竹市東區學府路1號",
+    "region": "hsinchu_city",
+    "latitude": 24.7941998,
+    "longitude": 120.9767696,
+    "orderLinks": [
+      {
+        "id": "9bffb40c-5f90-41ed-9119-d7b0d7c9a297",
+        "platform": "官網",
+        "url": "https://www.facebook.com/pages/%E8%80%81%E9%9B%B2%E8%A8%98%E9%BA%B5%E9%A3%9F%E9%A4%A8/124591950943493"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJDX9LQVY1aDQR_xdO1aAAv70",
+    "name": "成功牛排 南大店",
+    "address": "300台灣新竹市東區南大路816-2號",
+    "region": "hsinchu_city",
+    "latitude": 24.788716899999997,
+    "longitude": 120.9665774,
+    "orderLinks": [],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJASR-N5U1aDQR5OnPyt0zoBU",
+    "name": "一百種味道 總店外帶店",
+    "address": "300台灣新竹市北區勝利路183號",
+    "region": "hsinchu_city",
+    "latitude": 24.801403099999998,
+    "longitude": 120.96442169999999,
+    "orderLinks": [
+      {
+        "id": "826f4c68-16a6-413a-bf45-953480145a8f",
+        "platform": "官網",
+        "url": "https://www.100tastes.com.tw/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJU1UV0-o1aDQRfb1nhfpbegA",
+    "name": "海底撈火鍋 新竹店",
+    "address": "300台灣新竹市東區西大路323號4樓",
+    "region": "hsinchu_city",
+    "latitude": 24.8018619,
+    "longitude": 120.96466599999998,
+    "orderLinks": [
+      {
+        "id": "a2e91272-7028-4f6e-b606-d9c2f7a0c394",
+        "platform": "inline",
+        "url": "https://inline.app/booking/-LamXb5SAQN7JcJfyRKi:inline-live-2a466/-LbuaqbC2ccoRJPiNuyB"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJzerQyOo1aDQRWcfl4b61Ekk",
+    "name": "鼎泰豐 新竹店",
+    "address": "300台灣新竹市東區西大路323號B1",
+    "region": "hsinchu_city",
+    "latitude": 24.8015395,
+    "longitude": 120.96460320000001,
+    "orderLinks": [
+      {
+        "id": "631d7bf5-1b28-4a17-a052-8b44ca724127",
+        "platform": "官網",
+        "url": "https://www.dintaifung.com.tw/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJr1_Szuo1aDQRgiJ4vR0u1e4",
+    "name": "饗食天堂 新竹店",
+    "address": "300台灣新竹市東區西大路323號9樓",
+    "region": "hsinchu_city",
+    "latitude": 24.8019347,
+    "longitude": 120.9648374,
+    "orderLinks": [
+      {
+        "id": "7a7b4cd3-bbf2-4083-837d-febe1fb49e8d",
+        "platform": "官網",
+        "url": "https://www.eatogether.com.tw/zh-TW/home"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJ4QlrdXM1aDQRHncxGKw15cU",
+    "name": "山田麻糬製造所",
+    "address": "300台灣新竹市東區文昌街85號",
+    "region": "hsinchu_city",
+    "latitude": 24.8020976,
+    "longitude": 120.9667146,
+    "orderLinks": [
+      {
+        "id": "40056c48-2943-4ffb-86ec-fdc93ec248db",
+        "platform": "官網",
+        "url": "https://yamadamochiya.com/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJ3dnarZQ1aDQR9cqxIVNQxcM",
+    "name": "墨咖啡 INK COFFEE",
+    "address": "300台灣新竹市東區林森路180號",
+    "region": "hsinchu_city",
+    "latitude": 24.799274,
+    "longitude": 120.9643338,
+    "orderLinks": [
+      {
+        "id": "162b266c-3728-4138-8266-0f9508d2e74e",
+        "platform": "官網",
+        "url": "https://line.me/R/ti/p/@225cjqbm"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJ4XDG8eo1aDQR3-DL--Irw7k",
+    "name": "老港陳",
+    "address": "300台灣新竹市東區南門街55號",
+    "region": "hsinchu_city",
+    "latitude": 24.8015537,
+    "longitude": 120.96699729999999,
+    "orderLinks": [
+      {
+        "id": "69ebd69a-2c4f-4e0d-bf0c-3847d1bc1d12",
+        "platform": "官網",
+        "url": "https://www.instagram.com/chenqiaoyin2/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJ0ajpYOo1aDQRFvj0fx5fkgI",
+    "name": "榮記客家湯圓",
+    "address": "300台灣新竹市東區武昌街64號",
+    "region": "hsinchu_city",
+    "latitude": 24.8021834,
+    "longitude": 120.96786259999999,
+    "orderLinks": [],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJg1aZ5ZQ1aDQRxib5yEmSpr8",
+    "name": "貳參咖啡-西門店「無訂位服務」",
+    "address": "300台灣新竹市北區西門街152號",
+    "region": "hsinchu_city",
+    "latitude": 24.801079299999998,
+    "longitude": 120.96268510000002,
+    "orderLinks": [
+      {
+        "id": "1457c464-f80d-4161-9fa3-60c83a649cc5",
+        "platform": "官網",
+        "url": "https://www.instagram.com/23coffeeroasters2.0?igsh=MWNkZm1ucXgxNjYzcQ=="
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJyfCDFoc1aDQRJduqajHrdPA",
+    "name": "築間幸福鍋物 新竹中華店",
+    "address": "300台灣新竹市北區中華路三段6號",
+    "region": "hsinchu_city",
+    "latitude": 24.7973231,
+    "longitude": 120.9632943,
+    "orderLinks": [
+      {
+        "id": "73674820-f12c-4880-988d-12be1a00c8ce",
+        "platform": "官網",
+        "url": "https://linktr.ee/jhujian6666"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJuTJ0aBQ1aDQRv323E4Wjtnk",
+    "name": "嗑肉石鍋-新竹西門店(二代店)",
+    "address": "300台灣新竹市北區西門街66號",
+    "region": "hsinchu_city",
+    "latitude": 24.802438,
+    "longitude": 120.9646465,
+    "orderLinks": [
+      {
+        "id": "2d28a001-3e20-4ef7-a30f-07de1d3feeb0",
+        "platform": "官網",
+        "url": "https://www.meatshotpot.com/"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJ1-ChtNQ1aDQRdpyukPL0qz4",
+    "name": "海瑞摃丸新竹西門總店",
+    "address": "300台灣新竹市北區西門街98號",
+    "region": "hsinchu_city",
+    "latitude": 24.801802499999997,
+    "longitude": 120.96379119999997,
+    "orderLinks": [
+      {
+        "id": "f3417a55-dae4-441a-8c22-8ee65fd92fde",
+        "platform": "官網",
+        "url": "https://www.hairei.com.tw/"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJ5zwU9As2aDQR-mrTEokhMa4",
+    "name": "國立清華大學 小吃部",
+    "address": "30013台灣新竹市東區光復路二段101號",
+    "region": "hsinchu_city",
+    "latitude": 24.7931395,
+    "longitude": 120.99310419999999,
+    "orderLinks": [
+      {
+        "id": "cf099d54-f3c4-4830-8a13-e9045472f29a",
+        "platform": "官網",
+        "url": "http://www.nthu.edu.tw/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJb9VLFUk1aDQRnA0JcAzd3X8",
+    "name": "阿美泰泰",
+    "address": "300台灣新竹市東區學府路56號1樓",
+    "region": "hsinchu_city",
+    "latitude": 24.7961851,
+    "longitude": 120.98281659999998,
+    "orderLinks": [
+      {
+        "id": "5d3ad574-cbee-4739-ac1f-2d59eeab5da8",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E9%98%BF%E7%BE%8E%E6%B3%B0%E6%B3%B0-113049507701812/?ref=pages_you_manage"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJWdjyGww2aDQRNevyzv4kuXg",
+    "name": "水木餐廳",
+    "address": "300台灣新竹市東區光復路二段101號",
+    "region": "hsinchu_city",
+    "latitude": 24.7922877,
+    "longitude": 120.9940825,
+    "orderLinks": [
+      {
+        "id": "a3ef7be1-44fb-4385-8ea3-991f31b87fc3",
+        "platform": "官網",
+        "url": "https://facebook.com/waterwoodfoodcourt/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJ1wJ0WuA1aDQRkRYwPLHwGbg",
+    "name": "無名早餐店 饅頭肉排蛋",
+    "address": "300台灣新竹市東區學府路112號",
+    "region": "hsinchu_city",
+    "latitude": 24.7966655,
+    "longitude": 120.9841455,
+    "orderLinks": [
+      {
+        "id": "5d7e2a9d-8b1e-4c4c-853b-2c143748e746",
+        "platform": "官網",
+        "url": "https://www.facebook.com/pages/%E7%84%A1%E5%90%8D%E9%A5%85%E9%A0%AD%E8%82%89%E6%8E%92%E8%9B%8B/101511223263792"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJZZnY0nQ2aDQRaGoa5ALVp4g",
+    "name": "麥當勞-新竹清大餐廳",
+    "address": "300台灣新竹市東區光復路二段101號清華大學小吃部",
+    "region": "hsinchu_city",
+    "latitude": 24.792905299999997,
+    "longitude": 120.9931201,
+    "orderLinks": [
+      {
+        "id": "9be9e1ce-66f1-4667-89b2-f9050ec7ed47",
+        "platform": "官網",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJEaCmPQc2aDQRU3KNyg4as2I",
+    "name": "車庫町日式咖哩，丼飯",
+    "address": "300台灣新竹市東區寶山路452巷8弄13號",
+    "region": "hsinchu_city",
+    "latitude": 24.7834315,
+    "longitude": 120.98986389999997,
+    "orderLinks": [
+      {
+        "id": "f7b72500-9bd9-44b6-bf96-dc31176873bf",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E8%BB%8A%E5%BA%AB%E7%94%BA%E6%97%A5%E5%BC%8F%E5%92%96%E5%93%A9%E4%B8%BC%E9%A3%AF-400392670359308/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJhw6zlas3aDQRzYz7p8GDrUo",
+    "name": "安好食 寶山店",
+    "address": "300台灣新竹市東區寶山路418號",
+    "region": "hsinchu_city",
+    "latitude": 24.7848501,
+    "longitude": 120.9899493,
+    "orderLinks": [
+      {
+        "id": "ebc76c47-43a9-4d68-85cc-06ed42899e2c",
+        "platform": "官網",
+        "url": "https://app.eats365pos.com/tw/tc/anhao_food_treasure_mountain"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJ34d2ouY1aDQRWqPCvKGmAOM",
+    "name": "阿寶魯肉飯",
+    "address": "300台灣新竹市東區學府路165號",
+    "region": "hsinchu_city",
+    "latitude": 24.795509799999998,
+    "longitude": 120.98032979999999,
+    "orderLinks": [
+      {
+        "id": "715ef0f0-3a5e-4ae2-9858-39a9cf2b937f",
+        "platform": "官網",
+        "url": "https://www.facebook.com/pages/%E9%98%BF%E5%AF%B6%E6%BB%B7%E8%82%89%E9%A3%AF/1666286903389622"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJKTONuuY1aDQRLfRSLr5A280",
+    "name": "學府牛肉麵",
+    "address": "300台灣新竹市東區學府路106號",
+    "region": "hsinchu_city",
+    "latitude": 24.7966438,
+    "longitude": 120.9839793,
+    "orderLinks": [
+      {
+        "id": "56148a41-3eb4-4224-b474-3180b67e95b0",
+        "platform": "官網",
+        "url": "https://www.facebook.com/xuefu.com.tw/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJ-0IMjD41aDQRNX6ISUK3fM4",
+    "name": "富珍鄉豬腳專賣店",
+    "address": "300台灣新竹市東區學府路359號",
+    "region": "hsinchu_city",
+    "latitude": 24.797373999999998,
+    "longitude": 120.98541429999999,
+    "orderLinks": [
+      {
+        "id": "a5759b77-8e7a-4570-bab5-6414b1386031",
+        "platform": "官網",
+        "url": "https://m.facebook.com/%E5%AF%8C%E7%8F%8D%E9%84%89%E8%B1%AC%E8%85%B3%E5%B0%88%E8%B3%A3%E5%BA%97-110670497871850/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJAx_vf8k1aDQRrFqfIvZIkj8",
+    "name": "德本家 tokumoto_brunch",
+    "address": "300台灣新竹市東區學府路349號",
+    "region": "hsinchu_city",
+    "latitude": 24.797202799999997,
+    "longitude": 120.98504899999999,
+    "orderLinks": [
+      {
+        "id": "2408d2fe-6dc8-4a2e-9f2d-602a83e4d659",
+        "platform": "官網",
+        "url": "https://store.dudooeat.com/order/store/517182804fc849149d451d726854bf58"
+      }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJby-2HuE1aDQRNArFQxLa3fc",
+    "name": "興達飲食店（臭臉麵店）",
+    "address": "300台灣新竹市東區學府路289號",
+    "region": "hsinchu_city",
+    "latitude": 24.7966497,
+    "longitude": 120.9835907,
+    "orderLinks": [],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJB9M8cFY1aDQRpO-KFUnTIMY",
+    "name": "湘月食堂",
+    "address": "300台灣新竹市東區學府路126號",
+    "region": "hsinchu_city",
+    "latitude": 24.796759299999998,
+    "longitude": 120.98442409999998,
+    "orderLinks": [
+      {
+        "id": "81669f44-230d-445e-92a0-51b96fc9997f",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E6%B9%98%E6%9C%88%E9%A3%9F%E5%A0%82-105523347604292/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ10ye_eA1aDQRjlUTgWdZBhg",
+    "name": "丐幫滷味學府分舵",
+    "address": "300台灣新竹市東區學府路321號1樓",
+    "region": "hsinchu_city",
+    "latitude": 24.7968731,
+    "longitude": 120.98419659999999,
+    "orderLinks": [
+      {
+        "id": "ff30943c-197f-4114-8b2c-acf4728eff8d",
+        "platform": "官網",
+        "url": "http://www.gaibom.com/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJVVVVVdw1aDQRxmQEm2Ub6Y8",
+    "name": "168新加坡美食",
+    "address": "300台灣新竹市東區學府路307號",
+    "region": "hsinchu_city",
+    "latitude": 24.7968101,
+    "longitude": 120.9840636,
+    "orderLinks": [
+      {
+        "id": "1f47bbad-dcad-4a48-8c6d-79028a6c5a00",
+        "platform": "官網",
+        "url": "https://m.facebook.com/profile.php?id=412430385451571"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJs8wLNeE1aDQR0c8v55zprZo",
+    "name": "楊家古早味美食（滷肉飯鍋燒麵小卷米粉）",
+    "address": "300台灣新竹市東區學府路215號",
+    "region": "hsinchu_city",
+    "latitude": 24.796045499999998,
+    "longitude": 120.98193930000001,
+    "orderLinks": [
+      {
+        "id": "fd3beaba-f296-4bee-a163-c2b50f4070e3",
+        "platform": "官網",
+        "url": "https://www.facebook.com/yang5710520/"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJgeYQOAA1aDQRDlIctmyNIes",
+    "name": "廖哩",
+    "address": "300039台灣新竹市東區學府路66號",
+    "region": "hsinchu_city",
+    "latitude": 24.7962296,
+    "longitude": 120.98293489999999,
+    "orderLinks": [
+      {
+        "id": "c90b0328-3217-49a2-a8f6-70cf92792b5c",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100054571474227"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJJ2_AGeE1aDQREfl-QL9DvqY",
+    "name": "山東饅頭 學府店",
+    "address": "300台灣新竹市東區學府路86號",
+    "region": "hsinchu_city",
+    "latitude": 24.7965517,
+    "longitude": 120.98374720000001,
+    "orderLinks": [],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJKTr23BE2aDQRHnwPbEFTM8U",
+    "name": "國立陽明交通大學第二餐廳",
+    "address": "300台灣新竹市東區大學路1001號",
+    "region": "hsinchu_city",
+    "latitude": 24.789302,
+    "longitude": 120.99719699999999,
+    "orderLinks": [
+      {
+        "id": "473bdad4-a505-4945-804c-45e4b6653544",
+        "platform": "官網",
+        "url": "https://m.facebook.com/nctu.secondrestaurant/?locale2=zh_TW"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJixrR5xE2aDQRcSR1SqrnbRs",
+    "name": "小木屋鬆餅 交大店",
+    "address": "300台灣新竹市東區大學路1001號交通大學資訊技術服務中心前餐亭",
+    "region": "hsinchu_city",
+    "latitude": 24.7876683,
+    "longitude": 120.99761310000001,
+    "orderLinks": [
+      {
+        "id": "3b8e8b62-14bf-41f9-a07d-aba95f9e3066",
+        "platform": "官網",
+        "url": "https://shinemood2006.com/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJsdKBkTc3aDQRWXucR4NgusY",
+    "name": "漢堡王 交大店",
+    "address": "300台灣新竹市東區大學路1001號研三舍餐廳",
+    "region": "hsinchu_city",
+    "latitude": 24.783808999999998,
+    "longitude": 120.9971564,
+    "orderLinks": [
+      {
+        "id": "aa34e90e-92f9-4b3d-9443-3971762f081b",
+        "platform": "官網",
+        "url": "http://www.burgerking.com.tw/"
+      }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJT_jE4RE2aDQROKOEdLQnfsw",
+    "name": "漢堡邦",
+    "address": "300台灣新竹市東區大學路1005號",
+    "region": "hsinchu_city",
+    "latitude": 24.7895988,
+    "longitude": 120.99930250000001,
+    "orderLinks": [],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ4WQ8CAA3aDQR-emAFviWHvs",
+    "name": "義早早午餐-新竹交大店",
+    "address": "300台灣新竹市東區大學路1001號研三舍",
+    "region": "hsinchu_city",
+    "latitude": 24.7839058,
+    "longitude": 120.99730149999998,
+    "orderLinks": [
+      {
+        "id": "ff443dd6-e6fd-4e82-ba9d-d7c2912818dd",
+        "platform": "官網",
+        "url": "https://www.facebook.com/eatmorning162"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJy2emtaA3aDQR8ZB6mCYIKLU",
+    "name": "Here Space 這家咖啡｜冰滴手沖專売｜甜點｜餐盒外燴｜入所請降低音量（有門禁，請來電）",
+    "address": "300台灣新竹市東區大學路1001號第二餐廳３樓",
+    "region": "hsinchu_city",
+    "latitude": 24.789275,
+    "longitude": 120.99709920000001,
+    "orderLinks": [],
+    "rating": 4.9
+  },
+  {
+    "id": "ChIJzwkaiU83aDQRrTLvSAiuABw",
+    "name": "SUBWAY-新竹交大店",
+    "address": "300台灣新竹市東區大學路1001號",
+    "region": "hsinchu_city",
+    "latitude": 24.7892323,
+    "longitude": 120.9969874,
+    "orderLinks": [
+      {
+        "id": "00a08672-b601-4abc-8f49-33a6464ff64e",
+        "platform": "官網",
+        "url": "https://subway.com.tw/"
+      }
+    ],
+    "rating": 3.3
+  },
+  {
+    "id": "ChIJK38UiQc2aDQRH_2NF9sR0EY",
+    "name": "雙饗丼 新竹寶山店",
+    "address": "300台灣新竹市東區寶山路430號",
+    "region": "hsinchu_city",
+    "latitude": 24.784720399999998,
+    "longitude": 120.99010989999998,
+    "orderLinks": [
+      {
+        "id": "0a35de6f-f633-4726-af55-08e86ca06a62",
+        "platform": "官網",
+        "url": "https://lin.ee/loAkfyQ"
+      }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJbTgnHxA2aDQR3WiUvpbZUzk",
+    "name": "國立陽明交通大學第一餐廳",
+    "address": "300台灣新竹市東區大學路1001號",
+    "region": "hsinchu_city",
+    "latitude": 24.786524,
+    "longitude": 120.9993977,
+    "orderLinks": [],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJ2bPUJAs2aDQRMyEuc3UiISM",
+    "name": "清華大學 第二招待所",
+    "address": "300台灣新竹市東區光復路二段101號",
+    "region": "hsinchu_city",
+    "latitude": 24.797029799999997,
+    "longitude": 120.9912045,
+    "orderLinks": [],
+    "rating": 3.9
+  },
+  {
+    "id": "ChIJY6QMvPw1aDQRU5d1WnGvPRg",
+    "name": "拉亞漢堡 新竹寶山",
+    "address": "300台灣新竹市東區寶山路440號",
+    "region": "hsinchu_city",
+    "latitude": 24.7846902,
+    "longitude": 120.9903403,
+    "orderLinks": [
+      {
+        "id": "b97cefea-013b-4e53-9e66-19665f42a46f",
+        "platform": "官網",
+        "url": "https://now.laya.com.tw/table?store=64a4deabc06ca680d4ab24b6"
+      }
+    ],
+    "rating": 3.3
+  },
+  {
+    "id": "ChIJDSKUxeE1aDQRmjh99J0YA20",
+    "name": "種籽蔬食養生早午餐",
+    "address": "300台灣新竹市東區博愛街5巷61號",
+    "region": "hsinchu_city",
+    "latitude": 24.7955971,
+    "longitude": 120.98664749999999,
+    "orderLinks": [
+      {
+        "id": "c585c059-28f3-4c80-9f33-da2b40a11107",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E7%A8%AE%E7%B1%BD%E8%94%AC%E9%A3%9F-351888888528841/"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJ27R6Bwc2aDQRFopW3o0XlAg",
+    "name": "創義食族",
+    "address": "300台灣新竹市東區寶山路416號",
+    "region": "hsinchu_city",
+    "latitude": 24.7848866,
+    "longitude": 120.9899167,
+    "orderLinks": [],
+    "rating": 3.9
+  },
+  {
+    "id": "ChIJh4CYXzs3aDQRxhvOPkO80EE",
+    "name": "南部好滋味",
+    "address": "300台灣新竹市東區光復路二段155巷78號",
+    "region": "hsinchu_city",
+    "latitude": 24.7975143,
+    "longitude": 120.99234009999999,
+    "orderLinks": [
+      {
+        "id": "9e92e009-8a9d-4e79-9464-dc69916be400",
+        "platform": "官網",
+        "url": "https://www.facebook.com/AlenChen5720771"
+      }
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJ0-X0_g43aDQRNVZPMfEoTi0",
+    "name": "軒邑快餐",
+    "address": "300台灣新竹市東區寶山路426號1樓",
+    "region": "hsinchu_city",
+    "latitude": 24.7847412,
+    "longitude": 120.9900049,
+    "orderLinks": [
+      {
+        "id": "cad612cc-e6aa-4483-9648-0b18438609ce",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100063660831692&mibextid=ZbWKwL"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJ8-Ir3xE2aDQRe7VYwqceEkQ",
+    "name": "麥當勞-新竹交大餐廳",
+    "address": "300台灣新竹市東區女二舍國立交通大學B棟1F大學路1001號之",
+    "region": "hsinchu_city",
+    "latitude": 24.784781499999998,
+    "longitude": 120.99912020000001,
+    "orderLinks": [
+      {
+        "id": "d8254835-d042-4c3a-b734-dd8b362c4852",
+        "platform": "官網",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJk5rJxR42aDQRUs45baSmRHI",
+    "name": "漢堡王 Burger King 竹科店",
+    "address": "300台灣新竹市東區工業東二路1號",
+    "region": "hsinchu_city",
+    "latitude": 24.779784799999998,
+    "longitude": 121.005538,
+    "orderLinks": [
+      {
+        "id": "fd661d64-45d8-4b4f-aa43-563c5a5f4dc4",
+        "platform": "官網",
+        "url": "https://www.burgerking.com.tw/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJ76MBfAA3aDQRi_IbQ18TJnw",
+    "name": "星巴克 瑞昱門市",
+    "address": "300台灣新竹市東區園區二路9號",
+    "region": "hsinchu_city",
+    "latitude": 24.7806554,
+    "longitude": 120.99812329999997,
+    "orderLinks": [],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJOUiFNwQ3aDQRjdcM2Tsh48c",
+    "name": "安妞韓國烤肉食堂-新竹竹科店",
+    "address": "30075台灣新竹市東區工業東二路1號科技生活館1樓",
+    "region": "hsinchu_city",
+    "latitude": 24.7798448,
+    "longitude": 121.0056449,
+    "orderLinks": [
+      {
+        "id": "a51fe1d7-885e-4c64-900c-d74f3aea0411",
+        "platform": "inline",
+        "url": "https://inline.app/booking/-MxlOnofn8Ew22KvmQpW:inline-live-2/-N5hr_1uGdyl7aNIYR5l"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJ1R1lGRA2aDQR0OU4Hv0sMnU",
+    "name": "LALA Kitchen 交大店",
+    "address": "300台灣新竹市東區大學路1001號",
+    "region": "hsinchu_city",
+    "latitude": 24.786283599999997,
+    "longitude": 120.99969309999999,
+    "orderLinks": [
+      {
+        "id": "68928e26-f96e-4b75-b1bd-240905b1f17e",
+        "platform": "官網",
+        "url": "https://www.facebook.com/NolaKitchenNCTU"
+      }
+    ],
+    "rating": 3.8
+  },
+  {
+    "id": "ChIJO34F0_81aDQRFoGVWM8hLR4",
+    "name": "雲南泰式小吃",
+    "address": "300台灣新竹市東區高翠路217號",
+    "region": "hsinchu_city",
+    "latitude": 24.7799384,
+    "longitude": 120.98697219999998,
+    "orderLinks": [
+      {
+        "id": "29c14e58-dcd6-40c6-bbe1-c1b0a078aba3",
+        "platform": "官網",
+        "url": "https://amy77.com/blog/post/26204574"
+      }
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "ChIJ_X-SXBk2aDQR2gweJGKLUEA",
+    "name": "禾園茶館",
+    "address": "300台灣新竹市東區工業東二路1號3樓",
+    "region": "hsinchu_city",
+    "latitude": 24.779719099999998,
+    "longitude": 121.00542099999998,
+    "orderLinks": [
+      {
+        "id": "44cb5418-7aa6-4926-a6cf-949f6fa9339e",
+        "platform": "官網",
+        "url": "https://www.facebook.com/Heyuan.tea/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJiYFArvY3aDQRRNGDeggpPCk",
+    "name": "Nude 裸色茶啡",
+    "address": "300台灣新竹市東區創新二路7號",
+    "region": "hsinchu_city",
+    "latitude": 24.7791463,
+    "longitude": 120.9962314,
+    "orderLinks": [
+      {
+        "id": "a5f1630c-9cc5-42ee-be9a-024e1edc00ba",
+        "platform": "官網",
+        "url": "https://www.facebook.com/nudetrendycafe/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ-y2DwP81aDQR4EAk6ILKkHA",
+    "name": "六家麵店(新竹高翠店)",
+    "address": "300台灣新竹市東區高翠路255號",
+    "region": "hsinchu_city",
+    "latitude": 24.7793441,
+    "longitude": 120.98628199999999,
+    "orderLinks": [],
+    "rating": 4
+  },
+  {
+    "id": "ChIJoRAKjho2aDQRyTO0-JxnIf4",
+    "name": "Lim Coffee咖啡館",
+    "address": "300台灣新竹市東區展業一路11號",
+    "region": "hsinchu_city",
+    "latitude": 24.7837075,
+    "longitude": 121.0006945,
+    "orderLinks": [
+      {
+        "id": "a10931fc-05aa-4b27-8959-dc6d440306a0",
+        "platform": "官網",
+        "url": "https://m.facebook.com/Lim-coffee-983335088378049/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJz_hO70E3aDQRQ1ewGMF2lDg",
+    "name": "天晟燒臘",
+    "address": "300093台灣新竹市東區大學路1001-2號",
+    "region": "hsinchu_city",
+    "latitude": 24.784494199999997,
+    "longitude": 120.99952859999998,
+    "orderLinks": [],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJY6vDqrc3aDQR97rW6lAZhJY",
+    "name": "晶宴會館-御豐館",
+    "address": "300台灣新竹市東區公道五路三段1號2樓",
+    "region": "hsinchu_city",
+    "latitude": 24.8053651,
+    "longitude": 120.9916119,
+    "orderLinks": [
+      {
+        "id": "e1e5d4fb-1d7f-4125-8dfa-0315e8b7823e",
+        "platform": "官網",
+        "url": "https://www.amazinghall.com.tw/"
+      }
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ChIJs_sS8to1aDQRAJv-D_RcMmU",
+    "name": "老瀋陽酸菜白肉鍋",
+    "address": "300台灣新竹市東區三民路125號",
+    "region": "hsinchu_city",
+    "latitude": 24.8103217,
+    "longitude": 120.97878060000001,
+    "orderLinks": [
+      {
+        "id": "13e7327e-f78c-45f2-be36-2f5308724ea1",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E8%80%81%E7%80%8B%E9%99%BD%E9%85%B8%E7%99%BD%E8%8F%9C%E7%81%AB%E9%8D%8B-395619727199635/"
+      }
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "ChIJbZAbVnE2aDQRolSy1dAf1Yk",
+    "name": "段純貞建功店",
+    "address": "300台灣新竹市東區建功一路135號",
+    "region": "hsinchu_city",
+    "latitude": 24.8026457,
+    "longitude": 120.9937853,
+    "orderLinks": [
+      {
+        "id": "1fd78781-2c40-4860-98fd-134434d937d0",
+        "platform": "Ocard 線上點",
+        "url": "https://order.ocard.co/jiangong/w2O74Q?a&utm_source=bot&utm_medium=line"
+      }
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "ChIJ_Z-fVMc1aDQRT3hEKm0RQH8",
+    "name": "禾日香古早味魯肉飯",
+    "address": "300台灣新竹市東區民族路163號",
+    "region": "hsinchu_city",
+    "latitude": 24.8091185,
+    "longitude": 120.9789441,
+    "orderLinks": [
+      {
+        "id": "b985c8bb-4e01-455b-8ae6-942e7eaee2df",
+        "platform": "官網",
+        "url": "https://www.facebook.com/%E7%A6%BE%E6%97%A5%E9%A6%99-%E9%AD%AF%E8%82%89%E9%A3%AF%E5%B0%88%E9%96%80%E5%BA%97-439450116189275/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJczUaDXQ2aDQRLvxS6dQ5FJA",
+    "name": "Go eat Tapas Dining BAR 西班牙餐酒館(新竹)",
+    "address": "300台灣新竹市東區新源街108號",
+    "region": "hsinchu_city",
+    "latitude": 24.802104900000003,
+    "longitude": 120.99310759999999,
+    "orderLinks": [
+      {
+        "id": "52952601-26c4-4766-a3e2-b8029dec4fd4",
+        "platform": "官網",
+        "url": "https://www.facebook.com/goeattapas"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJh6ttAnc3aDQRQZu7vCFQcO8",
+    "name": "「拾起回憶」石憶食鍋/restaurants/美食/火鍋",
+    "address": "300台灣新竹市東區忠孝路51號",
+    "region": "hsinchu_city",
+    "latitude": 24.802334199999997,
+    "longitude": 120.99077910000001,
+    "orderLinks": [
+      {
+        "id": "a6638a65-f71e-4b67-958e-3b5a4f44aad0",
+        "platform": "官網",
+        "url": "https://shiyishiguo.weebly.com/"
+      }
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "ChIJvwcX5kE1aDQR37Nb2Wri1hQ",
+    "name": "同樂食鍋 新竹巨城三民店",
+    "address": "300台灣新竹市東區三民路158號",
+    "region": "hsinchu_city",
+    "latitude": 24.809898099999998,
+    "longitude": 120.9792166,
+    "orderLinks": [
+      {
+        "id": "ca214a93-018e-4882-a2a4-62bc4d5daabe",
+        "platform": "官網",
+        "url": "https://www.facebook.com/p/%E5%90%8C%E6%A8%82%E9%A3%9F%E9%8D%8B-%E7%9F%B3%E9%A0%AD%E7%81%AB%E9%8D%8B%E6%B6%AE%E6%B6%AE%E9%8D%8B%E5%B0%88%E8%B3%A3-100063518485791/"
+      }
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "ChIJJfegw9Y1aDQR-tI0qA1iKb8",
+    "name": "石二鍋 新竹忠孝店",
+    "address": "300台灣新竹市東區忠孝路279-7號",
+    "region": "hsinchu_city",
+    "latitude": 24.804517999999998,
+    "longitude": 120.98554700000001,
+    "orderLinks": [
+      {
+        "id": "8bc886b1-4427-4f3d-85cf-20a9f8a8f2ed",
+        "platform": "官網",
+        "url": "https://www.12hotpot.com.tw/"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "id": "ChIJFxGEqts1aDQRDnK9lzSSAMU",
+    "name": "一想一響咖啡 | 無提供訂位 | Last Order 21:00",
+    "address": "30043台灣新竹市東區民生路58巷8號",
+    "region": "hsinchu_city",
+    "latitude": 24.8085247,
+    "longitude": 120.97893069999998,
+    "orderLinks": [
+      {
+        "id": "dcd3d9cf-5f68-4072-9a81-ea662332e614",
+        "platform": "官網",
+        "url": "https://www.facebook.com/reecho.coffee/"
+      }
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "ChIJgz49IhQ1aDQRrsgspC9NxpY",
+    "name": "格林小鎮新2.0",
+    "address": "300台灣新竹市東區自由路27巷43號",
+    "region": "hsinchu_city",
+    "latitude": 24.810843799999997,
+    "longitude": 120.98057019999999,
+    "orderLinks": [
+      {
+        "id": "0419c36f-67ec-4efa-96bd-63210ff9eef5",
+        "platform": "官網",
+        "url": "https://www.facebook.com/profile.php?id=100063995439195"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ4x8tVGY1aDQRFMfEWoevWjA",
+    "name": "蔣好的味道",
+    "address": "300台灣新竹市東區鐵道路一段28巷81號",
+    "region": "hsinchu_city",
+    "latitude": 24.8124319,
+    "longitude": 120.9846131,
+    "orderLinks": [
+      {
+        "id": "a07da29f-0e9b-4ea8-a108-613842fdd9b9",
+        "platform": "官網",
+        "url": "https://m.facebook.com/pages/category/Restaurant/%E8%94%A3%E5%A5%BD%E7%9A%84%E5%91%B3%E9%81%93-320575941851148/"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJ18B0wt41aDQR1-xKN8FiW6s",
+    "name": "千葉火鍋 新竹尊爵館 (原忠孝店)",
+    "address": "300台灣新竹市東區忠孝路281號",
+    "region": "hsinchu_city",
+    "latitude": 24.803576399999997,
+    "longitude": 120.98383419999999,
+    "orderLinks": [
+      {
+        "id": "3b6f6d3a-fc25-4719-b07a-f0a7c18697c6",
+        "platform": "官網",
+        "url": "https://cyhotpot.net/GShome"
+      }
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "ChIJV1SB7Ro3aDQROnas-ElaThE",
+    "name": "墨竹亭 燃麵本家 新竹光復店",
+    "address": "300台灣新竹市東區光復路二段760號",
+    "region": "hsinchu_city",
+    "latitude": 24.8009557,
+    "longitude": 120.98814689999999,
+    "orderLinks": [
+      {
+        "id": "b1f1eaab-0625-46ad-ad88-561c638a391e",
+        "platform": "官網",
+        "url": "http://www.mozhuting.com/"
+      }
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "ChIJgxLtY8g1aDQRhdQ0l6licm0",
+    "name": "鴨肉許（中央店）",
+    "address": "300台灣新竹市東區中央路296號",
+    "region": "hsinchu_city",
+    "latitude": 24.8100637,
+    "longitude": 120.9777522,
+    "orderLinks": [],
+    "rating": 3.9
+  }
+]
